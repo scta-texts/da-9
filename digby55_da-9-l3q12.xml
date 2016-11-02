@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>    
+    <fileDesc>
+      <titleStmt>
+	<title>Expositio De anima libri tres</title>
+	<author>Anonymus</author>
+	<respStmt>
+	  <persName>Michael Stenskjær Christensen</persName>
+	  <resp>Encoding and transcription</resp>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Michael Stenskjær Christensen</publisher>
+      </publicationStmt>
+      <sourceDesc>
+	<listWit>
+	  <witness xml:id="D">Oxford, Digby 55</witness>
+	</listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <normalization>
+	  <p>Text is not normalized.</p>
+        </normalization>
+      </editorialDecl>    
+      <projectDesc>
+        <p>
+          Transcription of some questions of Anonymi Quaestiones in tertium de
+          anima in Oxford, Digby 55, ff. 114r-117r
+        </p>
+      </projectDesc>
+      <variantEncoding location="internal" method="parallel-segmentation"/>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Starts on 155vb -->
+      <head>
+        Quaeritur utrum intellectus possit intelligere se.
+      </head>
+      <p>
+        Et quod non probatio: Impossibile enim est idem esse movens
+        et motum et cetera.
+      </p>
+      <p>
+        Ad oppositum est Aristoteles, qui dicit quod intellectus
+        intelligit seipsum, et postea dicit quod intellectus est
+        intelligentia.
+      </p>
+      <p>
+        Arguitur quod cum intellectus possibilis est aliquo modo in actu, potest
+        se ipsum intelligere. Intellectus autem possibilis numquam intelligit se
+        antequam sit in actu, sed non est in actu quando est sicut tabula nuda
+        et ideo tunc non potest intelligere se. sed est in actu cum receperit
+        aliquam [+ del. "s"] formam in actu intellectiva [intellectam better].
+        idem enim est actus intelligentis et intellecti, et tunc potest se ipsum
+        intelligere. Unde sic se ipsum intelligens acquisitione alicuius
+        intellecti. Et sic intellectus intelligit se per posterius, quia
+        intelligit se per rem intellectam.
+      </p>
+      <p>
+        Ad obiectum dicitur quod intelligere est actio simplicissima,
+        sed moveri non est actio simplex, sed procedit ab uno ad
+        aliud. Non sic est de actione quae est intelligere. Unde non
+        est simile de movente et moto et de intelligente et
+        intellecto.
+      </p>
+      <p>
+        Contra: Intellectus possibilis nihil intelligit nisi per receptionem.
+        Iste enim modus intelligendi solum debetur intellectui possibili. Sed
+        impossibile est intellectum possibilem intelligere se per receptionem,
+        cum nihil possit se ipsum recipere, quia omne quod recipit aliud caret
+        eodem. Igitur intellectus possibilis per nullam actionem
+        <app>
+          <lem>quantumcumque</lem>
+          <app wit="#D">quamcumque</app>
+        </app>
+        simplicem seipsum potest intelligere, cum omne suum intelligere sit per
+        receptionem.
+      </p>
+      <p>
+        Solutio per se et primo.
+      </p>
+      
+      <head>
+        Quaeritur utrum intellectus intelligat se per speciem
+      </head>
+      <p>
+        Et quod non probatio.
+      </p>
+      <p>
+        Nam in non habentibus materiam idem est
+        <del rend="expunxit">subiectum</del> intelligens et
+        intellectum. Ergo si intellectus intelligat seipsum per
+        speciem, intelliget seipsum per se, quod falsum est.
+      </p>
+      <p>
+        Item non habet aliquam speciem simpliciorem se, per quam
+        possit intelligi.
+      </p>
+      <p>
+        Ad oppositum est Commentator qui dicit quod intellectus
+        possibilis intelligitur per speciem sicut
+        alia
+        <app>
+          <lem>intelligibilia</lem>
+          <app wit="#D">intelligen<del rend="expunctuated">t</del>ia</app>
+        </app>
+        .
+      </p>
+      <p>
+        Dicitur quod intellectus intelligit se per speciem vel
+        intentionem sicut omnia alia intelligentia, sicut dicit
+        Commentator, melius quam per se ipsum.
+      </p>
+      <p>
+        Ad obiectum dicitur quod haec propositio <quote>in
+        <supplied>non</supplied> habentibus materiam et cetera</quote>
+        intelligenda est in hiis quae nec habent materiam nec conditionem
+        materiae, et quia intellectus possibilis habet conditionem materiae,
+        ideo de ipso non habet intelligi ista propositio. Immo bene potest se
+        intelligere per speciem quae est alia ab ipso intellectu.
+      </p>
+      <p>
+        Contra: Si intellectus possibilis intelligeret se mediante specie, quae
+        esset alia a se, tunc ipsa species aut esset abstracta a se aut ab alio.
+        Non a se, quia tunc ista species semper esset praesens intellectui, et
+        sic posset intellectus possibilis se ipsum intelligere semper, nec ab
+        alio. constat quia non a fantasmate. <pb n="116r"/><cb n="a"/> Ergo
+        nullo modo potest per huiusmodi speciem seipsum intelligere.
+      </p>
+      <p>
+        Dicitur ad hoc quod species qua intellectus possibilis
+        intelligit se, licet sit ei semper praesens sicut aliae
+        species intelligibiles, tamen haec species non est principium
+        intelligendi nisi reducatur in actum. Sed quam cito haec
+        species reducitur in actum, tunc seipsum intelligit
+        intellectus per speciem.
+      </p>
+      <p>
+        Contra: Quocumque modo haec species abstrahatur vel ad actum reducatur,
+        hoc est neccesarium quod species mediante qua res intelligitur sit
+        simplicior ipsa re intellecta. Sed species propter quam intellectus
+        intelligit se non est simplicior ipso intellectu, quia intellectus est
+        materie penitus impermixtus; ergo et cetera.
+      </p>
+      <p>
+        Ad hoc dicitur quod quanto aliquid est magis in actu, tanto est
+        simplicius eo quod est in potentia. Unde intellectus in actu simplicior
+        est se ipso existente in potentia. Unde possibile est isto modo
+        abstrahere speciem simpliciorem, et si arguatur non est permixtus
+        corpori, dicitur quod non est permixtus corpori sicut sensus et aliae
+        virtutes materiales et ita debet intelligi cum dicitur quod est
+        impermixtus corpori. Et si ulterius arguatur quod haec species numquam
+        fuit abstracta a fantasmate, dicendum quod bene verum est, nam iste
+        modus est per quem intelligit alia a se.
+      </p>
+      <p>
+        Secundum tamen quod intelligit se ipsum sciendum est quod intellectus
+        agens abstrahit speciem ab intellectu possibili existentem in seipso in
+        potentia. Unde intellectus intelligit seipsum per speciem abstractam a
+        se ipso. haec tamen abstractio licet non sit a fantasmate, non tamen est
+        sine fantasmate penitus, quia non possit intelligere nisi receperit
+        speciem vel formam aliunde ut a fantasmate.
+      </p>
+
+    </body>
+  </text>
+</TEI>
