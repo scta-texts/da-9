@@ -2,26 +2,26 @@
   <teiHeader>    
     <fileDesc>
       <titleStmt>
-	<title>Expositio De anima libri tres</title>
-	<author>Anonymus</author>
-	<respStmt>
-	  <persName>Michael Stenskjær Christensen</persName>
-	  <resp>Encoding and transcription</resp>
-	</respStmt>
+        <title>Expositio De anima libri tres</title>
+        <author>Anonymus</author>
+        <respStmt>
+          <persName>Michael Stenskjær Christensen</persName>
+          <resp>Encoding and transcription</resp>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Michael Stenskjær Christensen</publisher>
       </publicationStmt>
       <sourceDesc>
-	<listWit>
-	  <witness xml:id="D">Oxford, Digby 55</witness>
-	</listWit>
+        <listWit>
+          <witness xml:id="D">Oxford, Digby 55</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
         <normalization>
-	  <p>Text is not normalized.</p>
+          <p>Text is not normalized.</p>
         </normalization>
       </editorialDecl>    
       <projectDesc>
