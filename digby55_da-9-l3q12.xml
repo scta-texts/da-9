@@ -53,9 +53,22 @@
         se ipsum intelligere. Intellectus autem possibilis numquam intelligit se
         antequam sit in actu, sed non est in actu quando est sicut tabula nuda
         et ideo tunc non potest intelligere se. sed est in actu cum receperit
-        aliquam [+ del. "s"] formam in actu intellectiva [intellectam better].
-        idem enim est actus intelligentis et intellecti, et tunc potest se ipsum
-        intelligere. Unde sic se ipsum intelligens acquisitione alicuius
+        <app>
+          <lem>aliquam</lem>
+          <app type="correction-substitution" wit="#D">
+            <subst>
+              <add>aliquam</add>
+              <del>aliquams</del>
+            </subst>
+          </app>
+        </app>
+        formam in actu
+        <app>
+          <lem type="conjecture-correction">intellectam</lem>
+          <app wit="#D">intellectiva</app>
+        </app>
+        . idem enim est actus intelligentis et intellecti, et tunc potest se
+        ipsum intelligere. Unde sic se ipsum intelligens acquisitione alicuius
         intellecti. Et sic intellectus intelligit se per posterius, quia
         intelligit se per rem intellectam.
       </p>
@@ -164,7 +177,6 @@
         sine fantasmate penitus, quia non possit intelligere nisi receperit
         speciem vel formam aliunde ut a fantasmate.
       </p>
-
     </body>
   </text>
 </TEI>
