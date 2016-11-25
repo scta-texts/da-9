@@ -63,7 +63,10 @@
         </supplied>
       </head>
       <p ana="#rationes-principalies-contra">
-        Quaeritur utrum intellectus intelligat se per speciem. Et quod non.
+        Quaeritur utrum intellectus intelligat se per speciem.
+      </p>
+      <p ana="#rationes-principales-contra">
+        Et quod non.
       </p>
       <p ana="#rationes-principales-contra" n="1">
         Probatio: Nam in non habentibus materiam idem est
@@ -86,18 +89,29 @@
           <quote type="paraphrase">intellectus possibilis intelligitur per
           speciem sicut alia
           <app>
-            <lem>intelligibilia</lem>
+            <lem type="conjecture-corrected">intellecta</lem>
             <rdg wit="#D">intelligen<del rend="expunctuated">t</del>ia</rdg>
           </app>
           </quote>
-          <bibl>Averroes ???</bibl>
+          <bibl>Averroes <title ref="#Aver.DA">Comm. DA</title> III, c. 15, p. 434</bibl>
         </cit>
         .
       </p>
       <p ana="#determinatio">
         Dicitur quod intellectus intelligit se per speciem vel intentionem sicut
-        omnia alia intelligentia, sicut dicit Commentator, melius quam per se
-        ipsum.
+        omnia alia
+        <app>
+          <lem type="conjecture-corrected">intellecta</lem>
+          <rdg wit="#D">intelligentia</rdg>
+        </app>
+        , sicut dicit
+        <cit>
+          <ref><name ref="#Averroes">Commentator</name></ref>
+          <bibl>
+            Averroes <title ref="#Aver.DA">Comm. DA</title> III, c. 15, p. 434
+          </bibl>
+        </cit>
+        , melius quam per se ipsum.
       </p>
       <div ana="#ad-rationes-contra" n="1">
         <p>
