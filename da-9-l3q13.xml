@@ -2,9 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-          Quaestio 13: Quaeritur utrum intellectus intelligat se per speciem
-        </title>
+        <title>q. 13 Utrum intellectus intelligat se per speciem</title>
         <author>Anonymus</author>
         <respStmt>
           <persName>Michael Stenskjær Christensen</persName>
@@ -59,118 +57,128 @@
       </div>
     </front>
     <body>
-      <head>
-        <supplied>
-          Quaestio 13: Quaeritur utrum intellectus intelligat se per speciem
-        </supplied>
-      </head>
-      <p ana="#rationes-principalies-contra">
-        Quaeritur utrum intellectus intelligat se per speciem.
-      </p>
-      <p ana="#rationes-principales-contra">
-        Et quod non.
-      </p>
-      <p ana="#rationes-principales-contra" n="1">
-        Probatio: Nam in non habentibus materiam idem est
-        <app>
-          <lem/>
-          <rdg type="correction-deletion" wit="#D">
-            <del rend="expunctuated">subiectum</del>
-          </rdg>
-        </app>
-        intelligens et intellectum. Ergo si intellectus intelligat seipsum per
-        speciem, intelliget seipsum per se, quod falsum est.
-      </p>
-      <p ana="#rationes-principales-contra" n="2">
-        Item non habet aliquam speciem simpliciorem se, per quam possit
-        intelligi.
-      </p>
-      <p ana="#rationes-principales-pro">
-        Ad oppositum est <name ref="#Averroes">Commentator</name> qui dicit quod
-        <cit>
-          <quote type="paraphrase">intellectus possibilis intelligitur per
-          speciem sicut alia
-          <app>
-            <lem type="conjecture-corrected">intellecta</lem>
-            <rdg wit="#D">intelligen<del rend="expunctuated">t</del>ia</rdg>
-          </app>
-          </quote>
-          <bibl>Averroes <title ref="#Aver.DA">Comm. DA</title> III, c. 15, p. 434</bibl>
-        </cit>
-        .
-      </p>
-      <p ana="#determinatio">
-        Dicitur quod intellectus intelligit se per speciem vel intentionem sicut
-        omnia alia
-        <app>
-          <lem type="conjecture-corrected">intellecta</lem>
-          <rdg wit="#D">intelligentia</rdg>
-        </app>
-        , sicut dicit
-        <cit>
-          <ref><name ref="#Averroes">Commentator</name></ref>
-          <bibl>
-            Averroes <title ref="#Aver.DA">Comm. DA</title> III, c. 15, p. 434
-          </bibl>
-        </cit>
-        , melius quam per se ipsum.
-      </p>
-      <div ana="#ad-rationes-contra" n="1">
-        <p>
-          Ad obiectum dicitur quod haec propositio <quote>in
-          <supplied>non</supplied> habentibus materiam et cetera</quote>
-          intelligenda est in hiis quae nec habent materiam nec conditionem
-          materiae, et quia intellectus possibilis habet conditionem materiae,
-          ideo de ipso non habet intelligi ista propositio. Immo bene potest se
-          intelligere per speciem quae est alia ab ipso intellectu.
+      <div xml:id="da-9-l3q13">
+        <head>
+          <supplied ana="#meta-text">
+            III.13: Utrum intellectus intelligat se per speciem
+          </supplied>
+        </head>
+        <p xml:id="da-9-l3q13-ksjhjd">
+          Quaeritur utrum intellectus intelligat se per speciem.
         </p>
-        <p>
-          Contra: Si intellectus possibilis intelligeret se mediante specie,
-          quae esset alia a se, tunc ipsa species aut esset abstracta a se aut
-          ab alio. Non a se, quia tunc ista species semper esset praesens
-          intellectui, et sic posset intellectus possibilis se ipsum intelligere
-          semper, nec ab alio. constat quia non a phantasmate. <pb n="116r"/><cb
-          n="a"/> Ergo nullo modo potest per huiusmodi speciem seipsum
-          intelligere.
-        </p>
-        <p>
-          Dicitur ad hoc quod species qua intellectus possibilis intelligit se,
-          licet sit ei semper praesens sicut aliae species intelligibiles, tamen
-          haec species non est principium intelligendi nisi reducatur in actum.
-          Sed quam cito haec species reducitur in actum, tunc seipsum intelligit
-          intellectus per speciem.
-        </p>
-        <p>
-          Contra: Quocumque modo haec species abstrahatur vel ad actum
-          reducatur, hoc est neccesarium quod species mediante qua res
-          intelligitur sit simplicior ipsa re intellecta. Sed species propter
-          quam intellectus intelligit se non est simplicior ipso intellectu,
-          quia intellectus est materie penitus impermixtus; ergo et cetera.
-        </p>
-      </div>
-      <!-- Where does the reply to the second start? If they are really
-           separate? -->
-      <div ana="#ad-rationes-contra" n="2">
-        <p>
-          Ad hoc dicitur quod quanto aliquid est magis in actu, tanto est
-          simplicius eo quod est in potentia. Unde intellectus in actu simplicior
-          est se ipso existente in potentia. Unde possibile est isto modo
-          abstrahere speciem simpliciorem, et si arguatur non est permixtus
-          corpori, dicitur quod non est permixtus corpori sicut sensus et aliae
-          virtutes materiales et ita debet intelligi cum dicitur quod est
-          impermixtus corpori. Et si ulterius arguatur quod haec species numquam
-          fuit abstracta a phantasmate, dicendum quod bene verum est, nam iste
-          modus est per quem intelligit alia a se.
-        </p>
-        <p>
-          Secundum tamen quod intelligit se ipsum sciendum est quod intellectus
-          agens abstrahit speciem ab intellectu possibili existentem in seipso
-          in potentia. Unde intellectus intelligit seipsum per speciem
-          abstractam a se ipso. haec tamen abstractio licet non sit a
-          phantasmate, non tamen est sine phantasmate penitus, quia non possit
-          intelligere nisi receperit speciem vel formam aliunde ut a
-          phantasmate.
-        </p>
+        <div ana="#rationes-principales">
+          <p ana="#structure-head">
+            Et quod non.
+          </p>
+          <p ana="#rationes-principales-contra" n="1" xml:id="da-9-l3q13-u33hrj">
+            Probatio: Nam in non habentibus materiam idem est
+            <app>
+              <lem/>
+              <rdg type="correction-deletion" wit="#D">
+                <del rend="expunctuated">subiectum</del>
+              </rdg>
+            </app>
+            intelligens et intellectum. Ergo si intellectus intelligat seipsum per
+            speciem, intelliget seipsum per se, quod falsum est.
+          </p>
+          <p ana="#rationes-principales-contra" n="2" xml:id="da-9-l3q13-idyfff">
+            Item non habet aliquam speciem simpliciorem se, per quam possit
+            intelligi.
+          </p>
+        </div>
+        <div ana="#rationes-principales">
+          <p ana="#rationes-principales-pro" xml:id="da-9-l3q13-xy5b81">
+            Ad oppositum est <name ref="#Averroes">Commentator</name> qui dicit quod
+            <cit>
+              <quote type="paraphrase">intellectus possibilis intelligitur per
+              speciem sicut alia
+              <app>
+                <lem type="conjecture-corrected">intellecta</lem>
+                <rdg wit="#D">intelligen<del rend="expunctuated">t</del>ia</rdg>
+              </app>
+              </quote>
+              <bibl>Averroes <title ref="#Aver.DA">Comm. DA</title> III, c. 15, p. 434</bibl>
+            </cit>
+            .
+          </p>
+        </div>
+        <div ana="#determinatio">
+          <p xml:id="da-9-l3q13-qhgd5t">
+            Dicitur quod intellectus intelligit se per speciem vel intentionem sicut
+            omnia alia
+            <app>
+              <lem type="conjecture-corrected">intellecta</lem>
+              <rdg wit="#D">intelligentia</rdg>
+            </app>
+            , sicut dicit
+            <cit>
+              <ref><name ref="#Averroes">Commentator</name></ref>
+              <bibl>
+                Averroes <title ref="#Aver.DA">Comm. DA</title> III, c. 15, p. 434
+              </bibl>
+            </cit>
+            , melius quam per se ipsum.
+          </p>
+        </div>
+        <div ana="#ad-rationes" xml:id="da-9-l3q13-blrdt6">
+          <div>
+            <p xml:id="da-9-l3q13-vgys7x">
+              Ad obiectum dicitur quod haec propositio <quote>in
+              <supplied>non</supplied> habentibus materiam et cetera</quote>
+              intelligenda est in hiis quae nec habent materiam nec conditionem
+              materiae, et quia intellectus possibilis habet conditionem materiae,
+              ideo de ipso non habet intelligi ista propositio. Immo bene potest se
+              intelligere per speciem quae est alia ab ipso intellectu.
+            </p>
+            <p xml:id="da-9-l3q13-twtu31">
+              Contra: Si intellectus possibilis intelligeret se mediante specie,
+              quae esset alia a se, tunc ipsa species aut esset abstracta a se aut
+              ab alio. Non a se, quia tunc ista species semper esset praesens
+              intellectui, et sic posset intellectus possibilis se ipsum intelligere
+              semper; nec ab alio constat quia non a phantasmate; <pb n="116r"/><cb
+              n="a"/> ergo nullo modo potest per huiusmodi speciem seipsum
+              intelligere.
+            </p>
+            <p xml:id="da-9-l3q13-xtb2po">
+              Dicitur ad hoc quod species qua intellectus possibilis intelligit se,
+              licet sit ei semper praesens sicut aliae species intelligibiles, tamen
+              haec species non est principium intelligendi nisi reducatur in actum;
+              sed quam cito haec species reducitur in actum, tunc seipsum intelligit
+              intellectus per speciem.
+            </p>
+            <p xml:id="da-9-l3q13-leiea4">
+              Contra: Quocumque modo haec species abstrahatur vel ad actum
+              reducatur, hoc est neccesarium quod species mediante qua res
+              intelligitur sit simplicior ipsa re intellecta; sed species propter
+              quam intellectus intelligit se non est simplicior ipso intellectu,
+              quia intellectus est materie penitus impermixtus; ergo et cetera.
+            </p>
+          </div>
+          <!-- Where does the reply to the second start? If they are really
+               separate? -->
+          <div xml:id="da-9-l3q13-6oprvj">
+            <p xml:id="da-9-l3q13-4gk4xk">
+              Ad hoc dicitur quod quanto aliquid est magis in actu, tanto est
+              simplicius eo quod est in potentia. Unde intellectus in actu simplicior
+              est se ipso existente in potentia. Unde possibile est isto modo
+              abstrahere speciem simpliciorem, et si arguatur non est permixtus
+              corpori, dicitur quod non est permixtus corpori sicut sensus et aliae
+              virtutes materiales et ita debet intelligi cum dicitur quod est
+              impermixtus corpori. Et si ulterius arguatur quod haec species numquam
+              fuit abstracta a phantasmate, dicendum quod bene verum est, nam iste
+              modus est per quem intelligit alia a se.
+            </p>
+            <p xml:id="da-9-l3q13-2lrw1x">
+              Secundum tamen quod intelligit se ipsum sciendum est quod intellectus
+              agens abstrahit speciem ab intellectu possibili existentem in seipso
+              in potentia. Unde intellectus intelligit seipsum per speciem
+              abstractam a se ipso. Haec tamen abstractio, licet non sit a
+              phantasmate, non tamen est sine phantasmate penitus, quia non possit
+              intelligere nisi receperit speciem vel formam aliunde, ut a
+              phantasmate.
+            </p>
+          </div>
+        </div>
       </div>
     </body>
   </text>
