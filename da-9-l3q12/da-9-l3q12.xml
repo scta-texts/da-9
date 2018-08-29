@@ -61,27 +61,21 @@
     </front>
     <body>
       <div xml:id="da-9-l3q12">
-        <head>
-          <supplied ana="#meta-text">
-            III.12: Utrum intellectus possit intelligere se
-          </supplied>
-        </head>
-        <p>
+        <p xml:id="da-9-l3q12-xaf4fe">
           Quaeritur utrum intellectus possit intelligere se.
         </p>
         <div ana="#rationes-principales">
-          <p ana="#structure-head">
+          <p xml:id="da-9-l3q12-s4m30s" ana="#structure-head">
             Et quod non.
           </p>
-          <p ana="#rationes-principales-contra" n="1">
+          <p xml:id="da-9-l3q12-g1xpuq">
             Probatio: Impossibile enim est idem esse movens et motum et cetera.
           </p>
         </div>
         <div ana="#rationes-principales">
-
-          <p ana="#rationes-principales-pro">
-            Ad oppositum est <name ref="#Aristotle">Aristoteles</name>, qui dicit
-            quod
+          <p xml:id="da-9-l3q12-x4mqcj" ana="#rationes-principales-pro">
+            Ad oppositum est <name ref="#Aristotle">Aristoteles</name>, qui
+            dicit quod
             <cit>
               <quote>
                 intellectus intelligit seipsum
@@ -98,54 +92,56 @@
             .
           </p>
         </div>
-        <p ana="#determinatio">
-          Arguitur quod cum intellectus possibilis est aliquo modo in actu,
-          potest se ipsum intelligere. Intellectus autem possibilis numquam
-          intelligit se antequam sit in actu, sed non est in actu quando est
-          sicut tabula nuda, et ideo tunc non potest intelligere se. Sed est in
-          actu cum receperit
-          <app>
-            <lem>aliquam</lem>
-            <rdg type="correction-substitution" wit="#D">
-              <subst>
-                <add>aliquam</add>
-                <del>aliquams</del>
-              </subst>
-            </rdg>
-          </app>
-          formam in actu
-          <app>
-            <lem type="conjecture-corrected">intellectam</lem>
-            <rdg wit="#D">intellectiva</rdg>
-          </app>
-          . Idem enim est actus intelligentis et intellecti, et tunc potest se
-          ipsum intelligere. Unde sic se ipsum intelligens acquisitione alicuius
-          intellecti. Et sic intellectus intelligit se per posterius, quia
-          intelligit se per rem intellectam.
-        </p>
+        <div ana="#determinatio">
+          <p xml:id="da-9-l3q12-o46gmp">
+            Arguitur quod cum intellectus possibilis est aliquo modo in actu,
+            potest seipsum intelligere. Intellectus autem possibilis numquam
+            intelligit se antequam sit in actu, sed non est in actu quando est
+            sicut tabula nuda, et ideo tunc non potest intelligere se. Sed est
+            in actu cum receperit
+            <app>
+              <lem>aliquam</lem>
+              <rdg type="correction-substitution" wit="#D">
+                <subst>
+                  <add>aliquam</add>
+                  <del>aliquams</del>
+                </subst>
+              </rdg>
+            </app>
+            formam in actu
+            <app>
+              <lem type="conjecture-corrected">intellectam</lem>
+              <rdg wit="#D">intellectiva</rdg>
+            </app>
+            , idem enim est actus intelligentis et intellecti, et tunc potest se
+            ipsum intelligere. Unde sic seipsum intelligens acquisitione
+            alicuius intellecti, et sic intellectus intelligit se per posterius,
+            quia intelligit se per rem intellectam.
+          </p>
+        </div>
         <div ana="#ad-rationes">
           <div>
-            <p>
-              Ad obiectum dicitur quod intelligere est actio simplicissima,
-              sed moveri non est actio simplex, sed procedit ab uno ad
-              aliud. Non sic est de actione quae est intelligere. Unde non
-              est simile de movente et moto et de intelligente et
-              intellecto.
+            <p xml:id="da-9-l3q12-ooadkm">
+              Ad obiectionem dicitur quod intelligere est actio simplicissima,
+              sed moveri non est actio simplex, sed procedit ab uno ad aliud;
+              non sic est de actione quae est intelligere; unde non est simile
+              de movente et moto et de intelligente et intellecto.
             </p>
-            <p>
-              Contra: Intellectus possibilis nihil intelligit nisi per receptionem.
-              Iste enim modus intelligendi solum debetur intellectui possibili. Sed
-              impossibile est intellectum possibilem intelligere se per receptionem,
-              cum nihil possit se ipsum recipere, quia omne quod recipit aliud caret
-              eodem. Igitur intellectus possibilis per nullam actionem
+            <p xml:id="da-9-l3q12-lf6l73">
+              Contra: Intellectus possibilis nihil intelligit nisi per
+              receptionem, iste enim modus intelligendi solum debetur
+              intellectui possibili; sed impossibile est intellectum possibilem
+              intelligere se per receptionem, cum nihil possit seipsum recipere,
+              quia omne quod recipit aliud caret eodem; igitur intellectus
+              possibilis per nullam actionem
               <app>
                 <lem>quantumcumque</lem>
                 <rdg wit="#D">quamcumque</rdg>
               </app>
-              simplicem seipsum potest intelligere, cum omne suum intelligere sit per
-              receptionem.
+              simplicem seipsum potest intelligere, cum omne suum intelligere
+              sit per receptionem.
             </p>
-            <p>
+            <p xml:id="da-9-l3q12-cr2ziu">
               Solutio per se et primo.
             </p>
           </div>
